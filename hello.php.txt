@@ -2,3 +2,5 @@
 // komen
 echo "hello world....";
 echo "End";
+echo "a new line to test stash";
+echo "another line to test stash";
